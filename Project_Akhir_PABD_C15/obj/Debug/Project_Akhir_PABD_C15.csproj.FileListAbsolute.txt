@@ -1,0 +1,12 @@
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\bin\Debug\Project_Akhir_PABD_C15.exe.config
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\bin\Debug\Project_Akhir_PABD_C15.exe
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\bin\Debug\Project_Akhir_PABD_C15.pdb
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.csproj.AssemblyReference.cache
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.Form1.resources
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.Form2.resources
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.Properties.Resources.resources
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.csproj.GenerateResource.cache
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.csproj.CoreCompileInputs.cache
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.exe
+C:\Users\Rey\source\repos\Project_Akhir_PABD_C15\Project_Akhir_PABD_C15\obj\Debug\Project_Akhir_PABD_C15.pdb

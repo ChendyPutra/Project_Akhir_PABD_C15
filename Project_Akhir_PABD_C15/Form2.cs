@@ -16,5 +16,9 @@ namespace Project_Akhir_PABD_C15
         {
             InitializeComponent();
         }
+
+        private void bindingSource1_CurrentChanged(object sender, EventArgs e)
+        {
+                    }
     }
 }

@@ -21,5 +21,17 @@ namespace Project_Akhir_PABD_C15
         {
            
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form2 fm = new Form2();
+            fm.Show();
+            this.Hide();
+        }
     }
 }
